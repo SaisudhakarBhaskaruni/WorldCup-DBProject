@@ -19,3 +19,19 @@ create table UMPIRE(
     no_of_matches number(4),
     country varchar(20)
 );
+create table PLAYER(
+    player_id varchar(30) primary key,
+    team_id references TEAM,
+    no_of_worldcups number(2),
+    number_of_matches number(3),
+    batting_average number(3),
+    no_of_sixes number(3),
+    no_of_fours number(3),
+    no_of_totalruns number(4),
+    no_of_t20 number(3),
+    no_of_odi number(3),
+    no_of_test number(3),
+    no_of_wickets number(2),
+    type_of_bowler varchar(30),
+    economy number(3)
+);
