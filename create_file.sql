@@ -35,3 +35,16 @@ create table PLAYER(
     type_of_bowler varchar(30),
     economy number(3)
 );
+create table COACH(
+    coach_id varchar(30) primary key,
+    team_id references TEAM,
+    coach_name varchar(30)
+);
+create table CAPTAIN(
+    captain_id varchar(30) primary key,
+    captain_name varchar(30),
+    team_id references TEAM,
+    player_id varchar(30),
+    year_of_captaincy number(2),
+    no_of_wins number(4)
+);
