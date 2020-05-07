@@ -67,3 +67,13 @@ create table UMPIRED_BY(
     match_id references MATCHES,
     umpire_id references UMPIRE
 );
+
+desc TEAM;
+desc WICKET_KEEPER;
+desc UMPIRE;
+desc PLAYER;
+desc COACH;
+desc CAPTAIN;
+desc MATCHES;
+desc PLAYS;
+desc UMPIRED_BY;
