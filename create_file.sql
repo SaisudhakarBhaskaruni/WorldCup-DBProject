@@ -48,3 +48,22 @@ create table CAPTAIN(
     year_of_captaincy number(2),
     no_of_wins number(4)
 );
+create table MATCHES(
+    match_id varchar(20) primary key,
+    match_date date,
+    match_time timestamp(0),
+    team_1_name varchar(30),
+    team_2_name varchar(30),
+    loser varchar(30),
+    winner varchar(30),
+    stadium varchar(30),
+    umpire_id references umpire
+);
+create table PLAYS(
+    team_id references TEAM,
+    match_id references MATCHES
+);
+create table UMPIRED_BY(
+    match_id references MATCHES,
+    umpire_id references UMPIRE
+);
