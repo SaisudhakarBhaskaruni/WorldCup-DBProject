@@ -1,1 +1,1 @@
-# WORLD_CUP-dbms-project
+# WORLDCUP DataBase Management Systems Project (ITE1003)
