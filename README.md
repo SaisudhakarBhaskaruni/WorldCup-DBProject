@@ -10,7 +10,7 @@
 
 
 #### Tech Stack :nerd_face:
-[![DOCS](http://img.shields.io/badge/database-mysql-blue.svg?logo=MYSQL&logoColor=white)](https://github.com/EmmadiDivyaSrujana/WorldCupDBProject/blob/master/Project%20Report.pdf)
+[![DOCS](https://img.shields.io/badge/database-sql-blue)](https://github.com/EmmadiDivyaSrujana/WorldCupDBProject/blob/master/Project%20Report.pdf)
 
 #### Steps to install MySQL :astonished:
 
