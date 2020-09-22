@@ -37,7 +37,3 @@
   <img align="left" alt="Divya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br><br>
-
-<p align="center">
-	With :heart: by <a href="" target="_blank">Emmadi Divya Srujana</a>
-</p>
