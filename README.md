@@ -5,7 +5,7 @@
 
 
 #### Here you can find the final review report :innocent:
-[![DOCS](http://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/Shreya549/CricketWorldCupDB/blob/master/Project%20Report.pdf) 
+[![DOCS](http://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/EmmadiDivyaSrujana/WorldCupDBProject/blob/master/Project%20Report.pdf) 
 
 
 
