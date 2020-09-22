@@ -1,2 +1,0 @@
-Write down the necessary SQL statements for implementation of functional requirements through SQL query, delete and update statement.
-
