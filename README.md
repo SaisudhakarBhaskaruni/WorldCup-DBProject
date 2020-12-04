@@ -1,6 +1,5 @@
 # Cricket World Cup Database Management System
 
-
 ### Hey! Are you a VITian, looking for a Database Management System project? Here, it is :star_struck:
 
 
